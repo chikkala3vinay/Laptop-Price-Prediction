@@ -36,6 +36,8 @@ The target variable is:
 9. Model Saving using Pickle
 10. Deploying The Model using Streamlit
 
+![Price Prediction App using Streamlit](streamlit_app) 
+
 ## Models Used
 
 The following regression algorithms were tested:
