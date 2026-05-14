@@ -36,6 +36,8 @@ The target variable is:
 9. Model Saving using Pickle
 10. Deploying The Model using Streamlit
 
+![Streamlit app](streamlitapp.png) 
+
 
 ## Models Used
 
